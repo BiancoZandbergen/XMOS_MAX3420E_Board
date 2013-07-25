@@ -1,4 +1,4 @@
-XMOS_MAX3420E_Board
+XMOS MAX3420E Extension Board
 ===================
 
-Board with MAX3420E ext USB device controller for XMOS XCARD development boards
+Board with MAX3420E external USB device controller for XMOS XCARD development boards.
